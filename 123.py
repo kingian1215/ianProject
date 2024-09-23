@@ -13,3 +13,7 @@ if is_prime(n):
     print(n, "is a prime number")
 else:
     print(n, "is not a prime number")
+
+    # Output:
+    # Enter a number: 13
+    # 13 is a prime number  
